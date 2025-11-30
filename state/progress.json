@@ -1,0 +1,56 @@
+{
+  "processed": [
+    {
+      "contact": "5599991689565",
+      "timestamp": "2025-11-30T13:42:39.367Z",
+      "success": true
+    },
+    {
+      "contact": "5599992015250",
+      "timestamp": "2025-11-30T20:45:05.990Z",
+      "success": true
+    },
+    {
+      "contact": "5599991705148",
+      "timestamp": "2025-11-30T20:46:14.806Z",
+      "success": true
+    },
+    {
+      "contact": "5599984243055",
+      "timestamp": "2025-11-30T20:48:14.757Z",
+      "success": true
+    },
+    {
+      "contact": "5599981108507",
+      "timestamp": "2025-11-30T20:49:39.220Z",
+      "success": true
+    },
+    {
+      "contact": "5599982699711",
+      "timestamp": "2025-11-30T20:51:22.894Z",
+      "success": true
+    },
+    {
+      "contact": "5599991807272",
+      "timestamp": "2025-11-30T20:54:10.504Z",
+      "success": true
+    },
+    {
+      "contact": "5599984192315",
+      "timestamp": "2025-11-30T20:57:03.009Z",
+      "success": true
+    },
+    {
+      "contact": "559930146946",
+      "timestamp": "2025-11-30T20:57:53.249Z",
+      "success": true
+    },
+    {
+      "contact": "559935254000",
+      "timestamp": "2025-11-30T21:01:11.487Z",
+      "success": true
+    }
+  ],
+  "failed": [],
+  "lastRun": "2025-11-30T21:01:11.487Z"
+}

@@ -1,0 +1,85 @@
+{"timestamp":"2025-11-30T13:41:17.621Z","level":"INFO","message":"=== WhatsApp Automation Started ===","data":null}
+{"timestamp":"2025-11-30T13:41:17.660Z","level":"INFO","message":"Loaded 2179 contacts","data":null}
+{"timestamp":"2025-11-30T13:41:17.663Z","level":"INFO","message":"2179 contacts pending","data":null}
+{"timestamp":"2025-11-30T13:41:21.329Z","level":"INFO","message":"Please scan QR code...","data":null}
+{"timestamp":"2025-11-30T13:41:47.906Z","level":"INFO","message":"=== WhatsApp Automation Started ===","data":null}
+{"timestamp":"2025-11-30T13:41:47.921Z","level":"INFO","message":"Loaded 2165 contacts","data":null}
+{"timestamp":"2025-11-30T13:41:47.923Z","level":"INFO","message":"2165 contacts pending","data":null}
+{"timestamp":"2025-11-30T13:41:49.388Z","level":"INFO","message":"Please scan QR code...","data":null}
+{"timestamp":"2025-11-30T13:42:12.324Z","level":"INFO","message":"WhatsApp ready. Starting automation...","data":null}
+{"timestamp":"2025-11-30T13:42:15.333Z","level":"INFO","message":"Processing 1/2165: 5599991689565","data":null}
+{"timestamp":"2025-11-30T13:42:15.481Z","level":"INFO","message":"Opening chat with 5599991689565","data":null}
+{"timestamp":"2025-11-30T13:42:25.879Z","level":"DEBUG","message":"Card not clicked, pressing Enter","data":null}
+{"timestamp":"2025-11-30T13:42:25.952Z","level":"INFO","message":"Chat opened successfully","data":null}
+{"timestamp":"2025-11-30T13:42:26.523Z","level":"INFO","message":"Sending image with caption","data":null}
+{"timestamp":"2025-11-30T13:42:37.781Z","level":"INFO","message":"Image sent successfully","data":null}
+{"timestamp":"2025-11-30T13:42:39.366Z","level":"INFO","message":"✓ Contact processed: 5599991689565","data":null}
+{"timestamp":"2025-11-30T13:42:39.368Z","level":"INFO","message":"Waiting 85s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:44:19.940Z","level":"INFO","message":"=== WhatsApp Automation Started ===","data":null}
+{"timestamp":"2025-11-30T20:44:19.964Z","level":"INFO","message":"Loaded 2164 contacts","data":null}
+{"timestamp":"2025-11-30T20:44:19.965Z","level":"INFO","message":"2164 contacts pending","data":null}
+{"timestamp":"2025-11-30T20:44:23.193Z","level":"INFO","message":"Please scan QR code...","data":null}
+{"timestamp":"2025-11-30T20:44:53.292Z","level":"INFO","message":"WhatsApp ready. Starting automation...","data":null}
+{"timestamp":"2025-11-30T20:44:56.307Z","level":"INFO","message":"Processing 1/2164: 5599992015250","data":null}
+{"timestamp":"2025-11-30T20:44:56.458Z","level":"INFO","message":"Opening chat with 5599992015250","data":null}
+{"timestamp":"2025-11-30T20:45:05.988Z","level":"WARN","message":"Contact not found: 5599992015250","data":null}
+{"timestamp":"2025-11-30T20:45:05.989Z","level":"INFO","message":"✓ Contact processed: 5599992015250","data":null}
+{"timestamp":"2025-11-30T20:45:05.991Z","level":"INFO","message":"Waiting 60s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:46:05.813Z","level":"INFO","message":"Processing 2/2164: 5599991705148","data":null}
+{"timestamp":"2025-11-30T20:46:06.370Z","level":"INFO","message":"Opening chat with 5599991705148","data":null}
+{"timestamp":"2025-11-30T20:46:14.803Z","level":"WARN","message":"Contact not found: 5599991705148","data":null}
+{"timestamp":"2025-11-30T20:46:14.805Z","level":"INFO","message":"✓ Contact processed: 5599991705148","data":null}
+{"timestamp":"2025-11-30T20:46:14.807Z","level":"INFO","message":"Waiting 98s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:47:52.871Z","level":"INFO","message":"Processing 3/2164: 5599984243055","data":null}
+{"timestamp":"2025-11-30T20:47:53.121Z","level":"INFO","message":"Opening chat with 5599984243055","data":null}
+{"timestamp":"2025-11-30T20:48:02.147Z","level":"DEBUG","message":"Card not clicked, pressing Enter","data":null}
+{"timestamp":"2025-11-30T20:48:02.415Z","level":"INFO","message":"Chat opened successfully","data":null}
+{"timestamp":"2025-11-30T20:48:03.532Z","level":"INFO","message":"Sending image with caption","data":null}
+{"timestamp":"2025-11-30T20:48:13.193Z","level":"INFO","message":"Image sent successfully","data":null}
+{"timestamp":"2025-11-30T20:48:14.756Z","level":"INFO","message":"✓ Contact processed: 5599984243055","data":null}
+{"timestamp":"2025-11-30T20:48:14.758Z","level":"INFO","message":"Waiting 64s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:49:18.344Z","level":"INFO","message":"Processing 4/2164: 5599981108507","data":null}
+{"timestamp":"2025-11-30T20:49:18.519Z","level":"INFO","message":"Opening chat with 5599981108507","data":null}
+{"timestamp":"2025-11-30T20:49:27.799Z","level":"DEBUG","message":"Card not clicked, pressing Enter","data":null}
+{"timestamp":"2025-11-30T20:49:27.874Z","level":"INFO","message":"Chat opened successfully","data":null}
+{"timestamp":"2025-11-30T20:49:28.840Z","level":"INFO","message":"Sending image with caption","data":null}
+{"timestamp":"2025-11-30T20:49:37.766Z","level":"INFO","message":"Image sent successfully","data":null}
+{"timestamp":"2025-11-30T20:49:39.219Z","level":"INFO","message":"✓ Contact processed: 5599981108507","data":null}
+{"timestamp":"2025-11-30T20:49:39.220Z","level":"INFO","message":"Waiting 81s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:51:00.008Z","level":"INFO","message":"Processing 5/2164: 5599982699711","data":null}
+{"timestamp":"2025-11-30T20:51:00.208Z","level":"INFO","message":"Opening chat with 5599982699711","data":null}
+{"timestamp":"2025-11-30T20:51:09.441Z","level":"DEBUG","message":"Card not clicked, pressing Enter","data":null}
+{"timestamp":"2025-11-30T20:51:09.501Z","level":"INFO","message":"Chat opened successfully","data":null}
+{"timestamp":"2025-11-30T20:51:10.698Z","level":"INFO","message":"Sending image with caption","data":null}
+{"timestamp":"2025-11-30T20:51:21.512Z","level":"INFO","message":"Image sent successfully","data":null}
+{"timestamp":"2025-11-30T20:51:22.893Z","level":"INFO","message":"✓ Contact processed: 5599982699711","data":null}
+{"timestamp":"2025-11-30T20:51:22.895Z","level":"INFO","message":"Waiting 144s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:53:47.138Z","level":"INFO","message":"Processing 6/2164: 5599991807272","data":null}
+{"timestamp":"2025-11-30T20:53:47.366Z","level":"INFO","message":"Opening chat with 5599991807272","data":null}
+{"timestamp":"2025-11-30T20:53:56.255Z","level":"DEBUG","message":"Card not clicked, pressing Enter","data":null}
+{"timestamp":"2025-11-30T20:53:56.313Z","level":"INFO","message":"Chat opened successfully","data":null}
+{"timestamp":"2025-11-30T20:53:57.150Z","level":"INFO","message":"Sending image with caption","data":null}
+{"timestamp":"2025-11-30T20:54:08.790Z","level":"INFO","message":"Image sent successfully","data":null}
+{"timestamp":"2025-11-30T20:54:10.503Z","level":"INFO","message":"✓ Contact processed: 5599991807272","data":null}
+{"timestamp":"2025-11-30T20:54:10.505Z","level":"INFO","message":"Waiting 149s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:56:39.176Z","level":"INFO","message":"Processing 7/2164: 5599984192315","data":null}
+{"timestamp":"2025-11-30T20:56:39.459Z","level":"INFO","message":"Opening chat with 5599984192315","data":null}
+{"timestamp":"2025-11-30T20:56:48.061Z","level":"DEBUG","message":"Card not clicked, pressing Enter","data":null}
+{"timestamp":"2025-11-30T20:56:48.215Z","level":"INFO","message":"Chat opened successfully","data":null}
+{"timestamp":"2025-11-30T20:56:48.839Z","level":"INFO","message":"Sending image with caption","data":null}
+{"timestamp":"2025-11-30T20:57:01.670Z","level":"INFO","message":"Image sent successfully","data":null}
+{"timestamp":"2025-11-30T20:57:03.008Z","level":"INFO","message":"✓ Contact processed: 5599984192315","data":null}
+{"timestamp":"2025-11-30T20:57:03.009Z","level":"INFO","message":"Waiting 41s until next contact...","data":null}
+{"timestamp":"2025-11-30T20:57:44.338Z","level":"INFO","message":"Processing 8/2164: 559930146946","data":null}
+{"timestamp":"2025-11-30T20:57:44.532Z","level":"INFO","message":"Opening chat with 559930146946","data":null}
+{"timestamp":"2025-11-30T20:57:53.248Z","level":"WARN","message":"Contact not found: 559930146946","data":null}
+{"timestamp":"2025-11-30T20:57:53.249Z","level":"INFO","message":"✓ Contact processed: 559930146946","data":null}
+{"timestamp":"2025-11-30T20:57:53.250Z","level":"INFO","message":"Waiting 176s until next contact...","data":null}
+{"timestamp":"2025-11-30T21:00:49.291Z","level":"INFO","message":"Processing 9/2164: 559935254000","data":null}
+{"timestamp":"2025-11-30T21:00:49.671Z","level":"INFO","message":"Opening chat with 559935254000","data":null}
+{"timestamp":"2025-11-30T21:00:58.671Z","level":"DEBUG","message":"Card not clicked, pressing Enter","data":null}
+{"timestamp":"2025-11-30T21:00:58.818Z","level":"INFO","message":"Chat opened successfully","data":null}
+{"timestamp":"2025-11-30T21:00:59.630Z","level":"INFO","message":"Sending image with caption","data":null}
+{"timestamp":"2025-11-30T21:01:09.546Z","level":"INFO","message":"Image sent successfully","data":null}
+{"timestamp":"2025-11-30T21:01:11.486Z","level":"INFO","message":"✓ Contact processed: 559935254000","data":null}
+{"timestamp":"2025-11-30T21:01:11.488Z","level":"INFO","message":"Waiting 72s until next contact...","data":null}
